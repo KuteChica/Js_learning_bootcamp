@@ -1,59 +1,84 @@
-# Js_learning_bootcamp
-# JavaScript Learning Bootcamp 🚀
+🔄 Weekly Workflow (IMPORTANT)
 
-Welcome to our JavaScript learning repository!
+At the end of every week, each person must:
 
-This project is a 2-month collaborative journey between friends to master the fundamentals of JavaScript and build real-world projects along the way.
+Push everything they learned that week
+Include all practice files and exercises
+Add any mini projects built during the week
+Update notes in the relevant notes.md file
+📌 What to push each week:
+JavaScript practice files
+Completed exercises
+Weekly mini projects (if any)
+Updated notes / understanding
+Any debugging experiments
+🚀 Weekly Commitment Rule
 
----
+By the end of every week:
 
-## 🎯 Goal
+✔ You must have code in the repo
+✔ You must show what you learned
+✔ You must have at least one small output (exercise or project)
+✔ You must commit and push your work to GitHub
 
-To become confident in JavaScript by:
-- Learning core programming concepts
-- Practicing regularly with exercises
-- Building small to medium projects
-- Collaborating using Git and GitHub like real developers
+💡 Learning Method
 
----
+We follow this cycle every week:
 
-## 📅 Duration
+Learn → Practice → Build → Push → Review
 
-**8 Weeks (2 Months)**
+Consistency is more important than speed.
 
-We will focus on:
-- Month 1: JavaScript Fundamentals
-- Month 2: Project Building & Practice
 
----
 
-## 📚 Topics Covered
 
-### Week 1–2: Basics
-- Variables (let, const, var)
-- Data types
-- Operators
-- Functions
-- Console debugging
 
-### Week 3–4: Core Concepts
-- Arrays
-- Objects
-- Loops (for, while)
-- Conditionals (if/else, switch)
 
-### Week 5–6: DOM & Browser JS
-- DOM manipulation
-- Events
-- Forms
-- Basic UI interaction
 
-### Week 7–8: Projects
-- Calculator App
-- To-Do List App
-- Simple Quiz App
-- Mini interactive website
-
----
-
-## 📁 Folder Structure
+Folder structure
+js-learning-bootcamp/
+│
+├── README.md
+├── .gitignore
+│
+├── july/
+│
+│   ├── week-1/
+│   │   ├── person-1/
+│   │   │   ├── notes.md
+│   │   │   ├── exercises.js
+│   │   │   └── practice.js
+│   │   │
+│   │   ├── person-2/
+│   │   │   ├── notes.md
+│   │   │   ├── exercises.js
+│   │   │   └── practice.js
+│   │   │
+│   │   └── shared/
+│   │       ├── mini-project.js
+│   │       └── tasks.md
+│
+│   ├── week-2/
+│   │   ├── person-1/
+│   │   ├── person-2/
+│   │   └── shared/
+│
+│   ├── week-3/
+│   │   ├── person-1/
+│   │   ├── person-2/
+│   │   └── shared/
+│
+│   └── week-4/
+│       ├── person-1/
+│       ├── person-2/
+│       └── shared/
+│
+├── projects/
+│   ├── calculator/
+│   ├── todo-app/
+│   └── quiz-app/
+│
+└── shared-resources/
+    ├── git-commands.md
+    ├── js-cheatsheet.md
+    └── debugging-tips.md
