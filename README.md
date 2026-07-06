@@ -82,3 +82,85 @@ js-learning-bootcamp/
     ├── git-commands.md
     ├── js-cheatsheet.md
     └── debugging-tips.md
+
+
+
+    Week 1: JavaScript Basics
+📚 Learn
+Variables (let, const)
+Data types
+Operators
+Console.log
+Basic input/output
+🛠 Project: Simple Calculator (Console Version)
+Add, subtract, multiply, divide
+User inputs numbers
+Output result in console
+Week 2: Functions & Logic
+📚 Learn
+Functions
+Arrow functions
+Parameters & return
+Scope
+🛠 Project: Tip Calculator App
+Input bill amount
+Choose tip percentage
+Output total bill
+Week 3: Arrays & Objects
+📚 Learn
+Arrays
+Array methods (push, pop, map, filter)
+Objects
+Object properties
+🛠 Project: Student Grade System
+Store students in an array
+Each student has name + score
+Output grades (A, B, C, etc.)
+Week 4: Loops & Conditionals
+📚 Learn
+if / else
+switch
+for loop
+while loop
+🛠 Project: Number Guessing Game
+Random number generator
+User guesses number
+Give hints (too high / too low)
+🔵 Month 2 — Real Web Development (DOM + Projects)
+Week 5: DOM Basics
+📚 Learn
+DOM selection
+Event listeners
+innerHTML / textContent
+🛠 Project: Interactive Counter App
+Increase / decrease buttons
+Reset button
+Display live updates
+Week 6: Forms & Validation
+📚 Learn
+Input handling
+Form events
+Validation
+🛠 Project: Login / Signup Form (Frontend only)
+Username + password input
+Basic validation
+Show success/error messages
+Week 7: Local Storage
+📚 Learn
+localStorage
+JSON.stringify / parse
+🛠 Project: To-Do List App
+Add tasks
+Delete tasks
+Save tasks in browser
+Reload page → data still there
+Week 8: Final Project (Capstone)
+🛠 Project: Mini Dashboard App
+
+Combine everything:
+
+Login page (simple)
+To-do list OR notes app
+Counter widget
+Stored data (localStorage)
+Clean UI
