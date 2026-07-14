@@ -6,13 +6,17 @@ const rl = readline.createInterface({
 });
 
 rl.question("Enter your birth year: ", function(birthYear){
-    console.log(birthYear);
 
+    const currentYear = new Date().getFullYear();
     birthYear = Number(birthYear);
-    let currentYear = 2026;
-    let age = currentYear - birthYear;
+    console.log(`Current Year: ${currentYear}`);
+    
 
-    console.log("You are " + age + " years old.")
+    const age = currentYear - birthYear;
+
+    console.log("You are " + age + " years old.");
+
+    rl.close();
     
 });
 
