@@ -200,7 +200,7 @@ Variables store information that the program will use later.
 * The difference between **strings** and **numbers**.
 * Why `Number()` is necessary for mathematical calculations.
 * How variables are used to store user input.
-
+|
 ---
 
 # Summary
