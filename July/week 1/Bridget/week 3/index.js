@@ -51,15 +51,49 @@
 
 // come()
 
-let lap1 =34
-let lap2=33
-let lap3=36
+// let lap1 =34
+// let lap2=33
+// let lap3=36
 
-let sum= lap1 + lap2 + lap3 
+// let sum= lap1 + lap2 + lap3 
 
-function logsum(){
-  console.log(sum)
+// function logsum(){
+//   console.log(sum)
+// }
+
+
+// logsum()
+
+// function countdown(){
+//   console.log(5)
+//  console.log(4)
+//  console.log(3)
+//  console.log(2)
+// console.log(1)
+// }
+
+// countdown();
+
+
+// let lapsCompleted=0;
+
+// function completed(){
+//   console.log(lapsCompleted =lapsCompleted + 1);
+// }
+
+
+// completed();
+// completed();
+// completed();
+
+let countel= document.getElementById("count-el")
+
+let count=0
+
+function increment(){
+  count = count+1;
+
+
+countel.innerText= count
+
 }
-
-
-logsum()
