@@ -86,14 +86,37 @@
 // completed();
 // completed();
 
+// let countel= document.getElementById("count-el")
+
+// let count=0
+
+// function increment(){
+//   count = count+1;
+
+
+// countel.innerText= count
+
+// }
+
+// let increase =document.getElementById("counte-el")
+
+// let count=0
+//  function increment(){
+//   count=count+1
+
+//   increase.innertext=count
+//  }
+// grab the count-el element,store it in a countel variable
+
 let countel= document.getElementById("count-el")
 
-let count=0
+let count= 0
 
 function increment(){
-  count = count+1;
-
-
-countel.innerText= count
-
+  count = count+1
 }
+
+// set countEl's innerText to the count
+countel.innerText=count
+
+// 1. Create a function, save(), which logs out the count when it's called
