@@ -113,10 +113,32 @@ let countel= document.getElementById("count-el")
 let count= 0
 
 function increment(){
-  count = count+1
+  count =+ 1
 }
 
 // set countEl's innerText to the count
 countel.innerText=count
 
 // 1. Create a function, save(), which logs out the count when it's called
+
+//  function save(){
+//     comsole.log(count)
+
+//  }
+//  save()
+
+// let username="Bridget"
+
+// let name= "you have three new notifications"
+
+// console.log(username+ "," + name)
+
+
+// let welcomeEl=document.getElementById(welcome_el)
+
+// let name="Bridget"
+// let greeting="hi Welcome"
+
+// welcomeEL.innerText= greetings + " "+ name
+
+// welcomeEl.innerText += "👋";
